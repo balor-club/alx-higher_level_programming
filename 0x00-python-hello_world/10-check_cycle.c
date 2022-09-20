@@ -1,10 +1,10 @@
 #include "lists.h"
 
 /**
- * check_cycle - Checks if a singly-linked list contains a cycle.
- *  @list: A singly-linked list.
+ * check_cycle - Checks if a singly-linked list contains a cycle
+ * @list: A singly-linked list.
  *
- * Return: 0 if no cycle, -1 if there is
+ * Return: 0 if no cycle, -1 if there is cycle
  */
 
 int check_cycle(listint_t *list)
